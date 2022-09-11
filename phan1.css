@@ -1,0 +1,15 @@
+
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+th{
+    text-align: center;
+    background-color: yellow;
+}
+td{
+    text-align: left;
+}
+table{
+margin-left: 20px;
+}
